@@ -1,0 +1,4 @@
+pyserial>=3.5
+PyQt5>=5.15
+matplotlib>=3.8
+numpy>=2.0
