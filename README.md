@@ -8,8 +8,8 @@ Research Instrumentation and Control · Python / Qt / STM32 / ESP8266
 
 | 八路电流采集与校准 | 六路位移 / 电压采集 |
 | :---: | :---: |
-| [![电流采集界面](projects/current-acquisition/images/interface.png)](projects/current-acquisition/README.md) | [![位移采集链](projects/research-daq/diagrams/pipeline.svg)](projects/research-daq/README.md) |
-| [HSTS016L、AD7606、零点档案、CSV、上下位机应用源码 →](projects/current-acquisition/README.md) | [设备样本时间轴、CRC、CSV / RAW / 元数据、上位机源码 →](projects/research-daq/README.md) |
+| [![电流采集界面](projects/current-acquisition/images/interface.png)](projects/current-acquisition/README.md) | [![Mark3 位移采集实际界面](projects/research-daq/images/interface-mark3.png)](projects/research-daq/README.md) |
+| [HSTS016L、AD7606、零点档案、CSV、上下位机应用源码 →](projects/current-acquisition/README.md) | [Mark3：实时波形、设备样本时间轴、CRC、CSV / RAW / 元数据 →](projects/research-daq/README.md) |
 
 两套采集软件的通道、帧格式、时间基准和物理单位分别说明，不共用解析器或实验结论。
 
